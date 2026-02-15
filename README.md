@@ -256,7 +256,7 @@ calculations.ts (pure math — NPV, EMR, timeline)
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/lease-lens.git
+git clone https://github.com/charlesskul/lease-lens.git
 cd lease-lens
 
 # 2. Install dependencies
